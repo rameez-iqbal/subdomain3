@@ -1,0 +1,7 @@
+# nuxt.js build output
+.nuxt
+
+# Nuxt generate
+dist
+node_modules/
+package-lock.json
