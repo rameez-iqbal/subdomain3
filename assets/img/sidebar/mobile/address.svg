@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>res_location</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.125490 0 0 0 0 0.125490 0 0 0 0 0.125490 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Order_Balance" transform="translate(-1729.000000, -523.000000)">
+            <g id="location" transform="translate(1728.000000, 347.000000)" filter="url(#filter-1)">
+                <g transform="translate(1.000000, 176.000000)">
+                    <path d="M9.77966102,2 C6.03535763,2 3,5.03535763 3,8.77966102 C3,14.8813559 9.72778354,18.373411 9.72778354,18.373411 C9.72778354,18.373411 16.559322,14.8813559 16.559322,8.77966102 C16.559322,5.03535763 13.5239644,2 9.77966102,2 Z" id="Shape" stroke="#000000"></path>
+                    <circle id="Oval" stroke="#000000" cx="9.77966102" cy="8.77966102" r="2.71186441"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

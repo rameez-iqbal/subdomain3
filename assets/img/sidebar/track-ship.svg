@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>577D0F8D-47C1-408F-B8C4-7800FD8DD6C4</title>
+    <g id="Tasks" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="orderDetails_00" transform="translate(-1260.000000, -821.000000)" stroke="#202020">
+            <g id="section" transform="translate(212.000000, 267.000000)">
+                <g transform="translate(758.000000, 76.000000)" id="row">
+                    <g transform="translate(213.000000, 478.000000)">
+                        <g id="package-delivered-(1)-2" transform="translate(77.000000, 0.000000)">
+                            <g id="Orion_package-delivered-(1)" transform="translate(5.000000, 4.000000)">
+                                <path d="M7.6,12.8 L0,12.8 L0,3.84 L2.56,0 L10.24,0 L12.8,3.84 L12.8,7.6 M0.08,3.73333333 L12.72,3.73333333 M6.4,0 L6.4,3.73333333" id="Shape"></path>
+                                <circle id="Oval" cx="11.7333333" cy="11.7333333" r="4.26666667"></circle>
+                                <polyline id="Path" points="13.6 10.6933333 11.4666667 13.0933333 10.1333333 11.76"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

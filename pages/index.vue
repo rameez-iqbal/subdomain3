@@ -1,16 +1,10 @@
 <template>
-    <v-container>
-    <h4 class="text-h4">{{ $t('welcome') }}</h4>
-    <nuxt-link :to="localePath('about','en')">About</nuxt-link>
-
-    <br />
-    <a href="http://gift.localhost:3000/ar" _target="blank">visit gift subdomain</a>
-  </v-container>
+  <Header />
+  <div class="min-h-[50vh]"> </div>
+  <Footer />
 </template>
 <script setup>
-const localePath = useLocalePath()
-console.log(localePath)
+import Header from "~/components/Header.vue";
+import Footer from "~/components/Footer.vue";
 </script>
-<style>
-
-</style>
+<style></style>

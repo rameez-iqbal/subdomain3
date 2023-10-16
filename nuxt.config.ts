@@ -2,10 +2,8 @@
 export default defineNuxtConfig({
   modules: [
     '@nuxtjs/i18n',
+    'nuxt-windicss',
   ],
-  build: {
-    transpile: ["vuetify"],
-  },
   i18n: {
     locales: [
       {

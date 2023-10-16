@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>res_fav</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.125490 0 0 0 0 0.125490 0 0 0 0 0.125490 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Order_Balance" transform="translate(-1729.000000, -566.000000)">
+            <g id="favorite" transform="translate(1728.000000, 347.000000)" filter="url(#filter-1)">
+                <g transform="translate(1.000000, 219.000000)">
+                    <path d="M14.5,2.00028129 C12.5420394,1.9851034 10.7670003,3.14874009 10,4.95028129 C9.23299966,3.14874009 7.45796064,1.9851034 5.5,2.00028129 C4.31114731,1.98692255 3.16638487,2.44985649 2.32100255,3.28584567 C1.47562024,4.12183485 1,5.26135356 1,6.45028129 C1,10.6002813 4.3,14.4502813 10,18.0002813 C15.7,14.4502813 19,10.6002813 19,6.45028129 C19,5.26135356 18.5243798,4.12183485 17.6789974,3.28584567 C16.8336151,2.44985649 15.6888527,1.98692255 14.5,2.00028129 L14.5,2.00028129 Z" id="Shape-Copy" stroke="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

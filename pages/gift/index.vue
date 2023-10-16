@@ -1,7 +1,7 @@
 <template>
-    <v-container>
+    <div>
       <h4 class="text-h4">welcome to subdomain Gift</h4>
-    </v-container>
+    </div>
   </template>
 <script setup>
 const localePath = useLocalePath()

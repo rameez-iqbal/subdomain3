@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>res_profile</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.125490 0 0 0 0 0.125490 0 0 0 0 0.125490 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Order_Balance" transform="translate(-1728.000000, -654.000000)">
+            <g id="account-settings" transform="translate(1728.000000, 347.000000)" filter="url(#filter-1)">
+                <g transform="translate(0.000000, 307.000000)">
+                    <g id="Orion_profile-settings" transform="translate(2.000000, 1.000000)" stroke-width="0.904761905">
+                        <circle id="Oval" stroke="#202020" stroke-linecap="round" stroke-linejoin="round" cx="12.0634921" cy="13.7222222" r="1.20634921"></circle>
+                        <path d="M16.2857143,14.868254 L15.3507937,14.3253968 C15.3871834,14.1364581 15.4073626,13.9447556 15.4111111,13.752381 C15.4107977,13.5398509 15.3906039,13.3278161 15.3507937,13.1190476 L16.1952381,12.6063492 L15.0793651,10.6460317 L14.2047619,11.1587302 C13.9355296,10.898512 13.6179014,10.6935906 13.2698413,10.5555556 L13.2698413,9.5 L10.8571429,9.5 L10.8571429,10.5555556 C10.4994121,10.6921947 10.1716436,10.89705 9.89206349,11.1587302 L9.04761905,10.6460317 L7.93174603,12.6063492 L8.77619048,13.0888889 C8.69869831,13.4974159 8.69869831,13.9168698 8.77619048,14.3253968 L7.84126984,14.868254 L8.95714286,16.8285714 L9.86190476,16.2857143 C10.1477213,16.5615588 10.4862085,16.7769598 10.8571429,16.9190476 L10.8571429,17.9444444 L13.2698413,17.9444444 L13.2698413,16.9190476 C13.630785,16.7748565 13.9590005,16.5594651 14.2349206,16.2857143 L15.1698413,16.8285714 L16.2857143,14.868254 Z" id="Shape" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" transform="translate(12.063492, 13.722222) rotate(15.000000) translate(-12.063492, -13.722222) "></path>
+                        <circle id="Oval" stroke="#000000" fill-rule="nonzero" cx="6.42363216" cy="4.3623356" r="3.61904762"></circle>
+                        <path d="M10.6970155,10.5626538 C9.61050183,9.93395706 8.22850431,9.55756588 6.72397531,9.55756588 C3.22617189,9.55756588 0.390641974,11.591932 0.390641974,14.1014497" id="Oval-Copy" stroke="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>3CEB6A91-C331-4D84-9F66-2CAB08A09833</title>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Nav_00" transform="translate(-583.000000, -103.000000)" stroke="#202020">
+            <g id="menu" transform="translate(251.173825, 96.760036)">
+                <g id="item" transform="translate(290.650263, 5.239964)">
+                    <g id="icon" transform="translate(42.000000, 2.000000)">
+                        <ellipse id="Oval" cx="8" cy="8" rx="4.29333333" ry="8"></ellipse>
+                        <path d="M0.666666667,11.2 L15.3333333,11.2 M0.666666667,4.8 L15.3333333,4.8 M8,0 L8,16" id="Shape"></path>
+                        <circle id="Oval" cx="8" cy="8" r="8"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

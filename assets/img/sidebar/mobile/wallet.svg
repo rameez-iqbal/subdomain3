@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>res_wallet</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.125490 0 0 0 0 0.125490 0 0 0 0 0.125490 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Order_Balance" transform="translate(-1729.000000, -347.000000)">
+            <g id="Orion_wallet" transform="translate(1728.000000, 347.000000)" filter="url(#filter-1)">
+                <g transform="translate(1.000000, 0.000000)">
+                    <polyline id="Path" stroke="#202020" stroke-linecap="round" stroke-linejoin="round" points="14.9584298 4.80853718 13.919271 2 6.19579378 4.80853718"></polyline>
+                    <path d="M16.7278082,12.6724413 L16.7278082,16.3235396 C16.7278082,16.7888733 16.3505807,17.1661008 15.8852471,17.1661008 L1.84256115,17.1661008 C1.37722748,17.1661008 1,16.7888733 1,16.3235396 L1,5.65109833 C1,5.18576466 1.37722748,4.80853718 1.84256115,4.80853718 L15.8852471,4.80853718 C16.3505807,4.80853718 16.7278082,5.18576466 16.7278082,5.65109833 L16.7278082,9.30219667" id="Path" stroke="#202020" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <rect id="Rectangle" stroke="#202020" stroke-linecap="round" stroke-linejoin="round" x="12.2341487" y="9.30219667" width="5.61707436" height="3.37024462" rx="1"></rect>
+                    <path d="M3.80853718,6.49365949 L4.37024462,6.49365949 M6.61707436,6.49365949 L7.17878179,6.49365949 M9.42561154,6.49365949 L9.98731897,6.49365949 M12.2341487,6.49365949 L12.7958562,6.49365949 M4.93195205,15.4809785 L5.49365949,15.4809785 M7.74048923,15.4809785 L8.30219667,15.4809785 M10.5490264,15.4809785 L11.1107338,15.4809785 M13.3575636,15.4809785 L13.919271,15.4809785" id="Shape" stroke="#202020" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <circle id="Oval" fill="#202020" cx="14.0342513" cy="11.0168586" r="1"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

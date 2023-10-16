@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="26px" viewBox="0 0 21 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>18DBFB05-8FD9-4D44-80A8-FA8AB670E131</title>
+    <g id="Web" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Nav_00" transform="translate(-250.000000, -101.000000)" stroke="#202020" stroke-width="1.5">
+            <g id="menu" transform="translate(251.173825, 96.760036)">
+                <g id="icon-cart" transform="translate(0.000000, 5.239964)">
+                    <polygon id="Path" points="18.6524526 23.3155657 0 23.3155657 0.777185525 6.2174842 17.8752671 6.2174842"></polygon>
+                    <path d="M5.44029867,9.3262263 L5.44029867,3.88592762 C5.44029867,1.73978906 7.18008773,0 9.3262263,0 C10.3568384,0 11.3452393,0.409409056 12.0739921,1.13816185 C12.8027449,1.86691464 13.2121539,2.85531554 13.2121539,3.88592762 L13.2121539,9.3262263" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
