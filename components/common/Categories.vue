@@ -174,7 +174,7 @@
           </a>
         </li>
         <li class="hover:bg-[#f4f4f4] flex items-center gap-5 py-[11px] px-2">
-          <a href="/en/care/hair-care/?page=1" class="text-sm text-black">
+          <a href="#" class="text-sm text-black">
             Hair Care
           </a>
         </li>
@@ -229,7 +229,7 @@
           </a>
         </li>
         <li class="hover:bg-[#f4f4f4] flex items-center gap-5 py-[11px] px-2">
-          <a href="/en/care/hair-care/?page=1" class="text-sm text-black">
+          <a href="#" class="text-sm text-black">
             Hair Care
           </a>
         </li>
