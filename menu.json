@@ -1,0 +1,1967 @@
+{
+  "categories": [
+    {
+      "category_id": "13",
+      "name": "Makeup",
+      "en_name": "Makeup",
+      "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1679399423_undefined_45696377_-500x500.png",
+      "categories": [
+        {
+          "category_id": "18",
+          "name": "Face",
+          "en_name": "Face",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/28915966_3940-large_default-500x500.jpg",
+          "categories": [
+            {
+              "category_id": "116",
+              "name": "Foundation",
+              "en_name": "Foundation",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/73100521_83872058_Mix%20Foundation-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "117",
+              "name": "Concealer & Correcter",
+              "en_name": "Concealer &amp; Correcter",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1676203883_undefined_30212668_-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "118",
+              "name": "Powder",
+              "en_name": "Powder",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1676203103_undefined_61646238_1-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "120",
+              "name": "Face Primer",
+              "en_name": "Face Primer",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/95373771_41763368_BenefitThePOREfessionalFacePrimer-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "121",
+              "name": "Makeup Spray",
+              "en_name": "Makeup Spray",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1676195179_undefined_31282789_-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "122",
+              "name": "BB & CC Cream",
+              "en_name": "BB &amp; CC Cream",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/67135526_76158131_69-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "123",
+              "name": "Makeup Sets",
+              "en_name": "Makeup Sets",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/72595065_39165403_BenefitSundayMyPrinceWillComeMakeupKit-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "113",
+              "name": "Makeup Removers",
+              "en_name": "Makeup Removers",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/48943158_make_upremovalsicon-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            }
+          ],
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "20",
+          "name": "Lips",
+          "en_name": "Lips",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/64719773_lip-500x500.png",
+          "categories": [
+            {
+              "category_id": "464",
+              "name": "Lip Tint",
+              "en_name": "Lip Tint",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/78749567_-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "139",
+              "name": "Lipstick",
+              "en_name": "Lipstick",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1676194798_undefined_89261390_-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "141",
+              "name": "Liquid Lipstick",
+              "en_name": "Liquid Lipstick",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/46806540_9521411_TopFace%20Instyle%20Extreme%20Matte%20Lip%20Paint%20-%2010-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "188",
+              "name": "Lip Gloss",
+              "en_name": "Lip Gloss",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/46202669_76655098_Revlon%20Super%20Lustrous%20Lip%20Gloss%20-%20243%20Solar%20Coral-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "142",
+              "name": "Lip Liner",
+              "en_name": "Lip Liner",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/6421289_30634923_Lipliner%20Pen%20-%20006-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "143",
+              "name": "Lip Sets",
+              "en_name": "Lip Sets",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/21511980_74434708_Mini%20Lipsticks1-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            }
+          ],
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "58",
+          "name": "Eyes",
+          "en_name": "Eyes",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/92113450_Screen%20Shot%202017-10-01%20at%205.19.56%20PM-500x500.png",
+          "categories": [
+            {
+              "category_id": "119",
+              "name": "Mascara",
+              "en_name": "Mascara",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1676203221_undefined_86855738_1-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "129",
+              "name": "Eyeliner",
+              "en_name": "Eyeliner",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1904365_78691643_Schwing%20-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "130",
+              "name": "Eyeshadow",
+              "en_name": "Eyeshadow",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1676204058_undefined_99902101_-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "138",
+              "name": "Eye Primer",
+              "en_name": "Eye Primer",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/5614008_50998926_Stray-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            }
+          ],
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "93",
+          "name": "Eyebrow",
+          "en_name": "Eyebrow",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/64080327_eyebrow-500x500.png",
+          "categories": [
+            {
+              "category_id": "124",
+              "name": "Gel & Powder ",
+              "en_name": "Gel &amp; Powder ",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/53518895_36146644_Eyebrow%20Gel%2006-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "125",
+              "name": "Eyebrow Pencil ",
+              "en_name": "Eyebrow Pencil ",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/49314577_47852663_TopFace%20Eyebrow%20Pencil%20PT611%20-%20003-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "145",
+              "name": "Eyebrow Mascara",
+              "en_name": "Eyebrow Mascara",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/55036010_94780130_uuu-500x500-500x500.jpg",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "146",
+              "name": "Eyebrow Sets",
+              "en_name": "Eyebrow Sets",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/42750776_81470860_Benefit%20Magically%20Transforming%20Brows%20Set-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            }
+          ],
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "114",
+          "name": "Cheek",
+          "en_name": "Cheek",
+          "image": "",
+          "categories": [
+            {
+              "category_id": "147",
+              "name": "Blush",
+              "en_name": "Blush",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/30485426_9026936_Topface%20Instyle%20Blush%20On%20Blusher-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "148",
+              "name": "Contour",
+              "en_name": "Contour",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/45893531_29062298_HC%20powder-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "149",
+              "name": "Bronzer",
+              "en_name": "Bronzer",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1676204475_undefined_23046024_-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            }
+          ],
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "115",
+          "name": "Highlighter",
+          "en_name": "Highlighter",
+          "image": "",
+          "categories": [
+            {
+              "category_id": "181",
+              "name": "Powder Highlighter",
+              "en_name": "Powder Highlighter",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1676204319_undefined_71305602_-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "182",
+              "name": "Liquid Highlighter",
+              "en_name": "Liquid Highlighter",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/10676427_48471523_Topface%20Liquid%20Highlighter%20-%20002-1-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "183",
+              "name": "Palette & Set",
+              "en_name": "Palette &amp; Set",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/53320569_72508826_Anastasia%20Beverly%20Hills%20Glow%20Sugar%20Kit-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            }
+          ],
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "21",
+          "name": "Brushes & Tools",
+          "en_name": "Brushes &amp; Tools",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/65689514_brush-500x500.png",
+          "categories": [
+            {
+              "category_id": "174",
+              "name": "Face Brushes",
+              "en_name": "Face Brushes",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/25840541_9860331_marble%20brush-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "173",
+              "name": "Eye Brushes",
+              "en_name": "Eye Brushes",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/76477793_75986364_Sigma%20Precision%20Round%20Brush%20-%20P82-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "178",
+              "name": "Eyebrow Brushes",
+              "en_name": "Eyebrow Brushes",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/51417337_29170353_Anastasia%20Beverly%20Hills%20Duo%20Brush%20-%207B-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "175",
+              "name": "Lip Brushes",
+              "en_name": "Lip Brushes",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/78736548_61786010_Sigma%20Lip%20Brush%20-%20L05-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "176",
+              "name": "Sponges",
+              "en_name": "Sponges",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/88676623_89613995_puff1-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "177",
+              "name": "Brush Sets",
+              "en_name": "Brush Sets",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/72748256_14285435_BH%20Cosmetics%2014%20pc%20Signature%20Brush%20Set-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "393",
+              "name": " Makeup Tools",
+              "en_name": " Makeup Tools",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/88218985_Mirrors-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            }
+          ],
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        }
+      ],
+      "attached_banners": [
+        {
+          "id": "13",
+          "category_id": "13",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/undefined/32786337_makeup-600x189.png",
+          "type": 1,
+          "data_id": "13",
+          "language_id": "1",
+          "name": "Makeup",
+          "sort_order": "0",
+          "seo_url": "makeup"
+        }
+      ],
+      "recommended_manufacturers": [
+        {
+          "manufacturer_id": "323",
+          "name": "Topface",
+          "en_name": "Topface",
+          "ar_name": " توب فيس",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/17061159_Topface-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/17061159_Topface-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "topface"
+        },
+        {
+          "manufacturer_id": "7",
+          "name": "Anastasia Beverly Hills",
+          "en_name": "Anastasia Beverly Hills",
+          "ar_name": "انيستيزيا بيفرلي هيلز",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/97631742_Anastasia Beverly Hills3-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/97631742_Anastasia Beverly Hills3-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "anastasia-beverly-hills"
+        },
+        {
+          "manufacturer_id": "3",
+          "name": "Benefit",
+          "en_name": "Benefit",
+          "ar_name": "بنفت",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/46568325_Benefit1-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/46568325_Benefit1-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "benefit"
+        },
+        {
+          "manufacturer_id": "167",
+          "name": "OFRA ",
+          "en_name": "OFRA ",
+          "ar_name": null,
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/30503812_OFRA-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/30503812_OFRA-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "ofra"
+        },
+        {
+          "manufacturer_id": "2",
+          "name": "theBalm Cosmetics",
+          "en_name": "theBalm Cosmetics",
+          "ar_name": " ذا بالم كوزماتيكس",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/38456132_theBalm Cosmetics-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/38456132_theBalm Cosmetics-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "thebalm-cosmetics"
+        },
+        {
+          "manufacturer_id": "8",
+          "name": "Bourjois",
+          "en_name": "Bourjois",
+          "ar_name": "برجوا",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/35903598_Bourjois1-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/35903598_Bourjois1-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "bourjois"
+        },
+        {
+          "manufacturer_id": "4",
+          "name": "NYX",
+          "en_name": "NYX",
+          "ar_name": null,
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/9686203_NYX-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/9686203_NYX-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "nyx"
+        },
+        {
+          "manufacturer_id": "340",
+          "name": "Revolution",
+          "en_name": "Revolution",
+          "ar_name": "ريفلوشن ",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/13379915_revolutionbeauty -500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/13379915_revolutionbeauty -500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "revolution"
+        },
+        {
+          "manufacturer_id": "1129",
+          "name": "CALLA Makeup",
+          "en_name": "CALLA Makeup",
+          "ar_name": "كالا ميك اب",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/88979340_CallaMakeup-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/88979340_CallaMakeup-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "calla-makeup"
+        }
+      ]
+    },
+    {
+      "category_id": "44",
+      "name": "Perfume",
+      "en_name": "Perfume",
+      "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1679399527_undefined_81840020_icons2-06-500x500.png",
+      "categories": [
+        {
+          "category_id": "272",
+          "name": "Travel size set",
+          "en_name": "Travel size set",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/10889329_MaisonFrancisKurkdjianTravelCollectionForMenandWomen-5Pieces-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "99",
+          "name": "Gift Set",
+          "en_name": "Gift Set",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/2770501_CarolinaHerreraGoodGirlWithHairMistForWomenGiftSet-EauDeParfum-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "279",
+          "name": "Oud perfume",
+          "en_name": "Oud perfume",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/60503369_ManceraAoudBlackCandy-EauDePerfum-120ml-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "260",
+          "name": "Musk",
+          "en_name": "Musk",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/74389349_MuskAmarillo-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "200",
+          "name": "Niche Perfumes",
+          "en_name": "Niche Perfumes",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/62220980_PenhaligonsPortraitsTheBlazingMisterSam-EaudeParfum-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "105",
+          "name": "Body Perfumes",
+          "en_name": "Body Perfumes",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/26197252_VictoriaSecretDayDreamBelieverFragranceMist-250ml-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "103",
+          "name": "Hair Mist",
+          "en_name": "Hair Mist",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/72544945_NarcisoRodriguezOrientalMuscHairMistForWomen-30ml-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "72",
+          "name": "Children Perfumes",
+          "en_name": "Children Perfumes",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/8978160_2753-large_default-500x500.jpg",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "74",
+          "name": "Unisex Perfumes",
+          "en_name": "Unisex Perfumes",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/50635537_2803-large_default-500x500.jpg",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "66",
+          "name": "Women Perfumes",
+          "en_name": "Women Perfumes",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/98233532_2370-large_default-500x500.jpg",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "65",
+          "name": "Men Perfumes",
+          "en_name": "Men Perfumes",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/30123137_2364-large_default-500x500.jpg",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "288",
+          "name": "New perfume",
+          "en_name": "New perfume",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/97376218_LoeweSololoeweOrigamiForMen-EauDeToilette-100ml-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        }
+      ],
+      "attached_banners": [
+        {
+          "id": "44",
+          "category_id": "44",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/undefined/46870669_3tor-600x189.png",
+          "type": 1,
+          "data_id": "44",
+          "language_id": "1",
+          "name": "Perfume",
+          "sort_order": "0",
+          "seo_url": "perfume"
+        }
+      ],
+      "recommended_manufacturers": [
+        {
+          "manufacturer_id": "92",
+          "name": "Calvin Klein",
+          "en_name": "Calvin Klein",
+          "ar_name": "كالفن كلاين",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/81328350_Calvin Klein1-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/81328350_Calvin Klein1-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "calvin-klein"
+        },
+        {
+          "manufacturer_id": "57",
+          "name": "Roberto Cavalli",
+          "en_name": "Roberto Cavalli",
+          "ar_name": "روبرتو كفالي",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/39280832_Roberto Cavalli1-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/39280832_Roberto Cavalli1-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "roberto-cavalli"
+        },
+        {
+          "manufacturer_id": "112",
+          "name": "CHANEL",
+          "en_name": "CHANEL",
+          "ar_name": "شانيل",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/42670272_CHANEL1-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/42670272_CHANEL1-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "chanel"
+        },
+        {
+          "manufacturer_id": "110",
+          "name": "Dior",
+          "en_name": "Dior",
+          "ar_name": "ديور",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/62423569_Dior1-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/62423569_Dior1-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "dior"
+        },
+        {
+          "manufacturer_id": "85",
+          "name": "Gucci",
+          "en_name": "Gucci",
+          "ar_name": "قوتشي ",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/46552895_Gucci-1-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/46552895_Gucci-1-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "gucci"
+        },
+        {
+          "manufacturer_id": "59",
+          "name": "VERSACE",
+          "en_name": "VERSACE",
+          "ar_name": null,
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/32235519_VERSACE-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/32235519_VERSACE-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "versace"
+        },
+        {
+          "manufacturer_id": "155",
+          "name": "YSL",
+          "en_name": "YSL",
+          "ar_name": null,
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/80334792_YSL-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/80334792_YSL-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "ysl"
+        },
+        {
+          "manufacturer_id": "62",
+          "name": "MONT BLANC",
+          "en_name": "MONT BLANC",
+          "ar_name": null,
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/6827625_MONT BLANC2-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/6827625_MONT BLANC2-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "mont-blanc"
+        },
+        {
+          "manufacturer_id": "764",
+          "name": "Jean Paul Gaultier",
+          "en_name": "Jean Paul Gaultier",
+          "ar_name": "جان بول غوتييه",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/75854425_JeanPaulGaultier-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/75854425_JeanPaulGaultier-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "jean-paul-gaultier"
+        }
+      ]
+    },
+    {
+      "category_id": "46",
+      "name": "Care",
+      "en_name": "Care",
+      "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1679399961_undefined_78204468_-500x500.png",
+      "categories": [
+        {
+          "category_id": "465",
+          "name": "Mouth & Teeth Care",
+          "en_name": "Mouth &amp; Teeth Care",
+          "image": "",
+          "categories": [
+            {
+              "category_id": "466",
+              "name": "Toothpaste",
+              "en_name": "Toothpaste",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/73887450_-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "467",
+              "name": "Toothbrush",
+              "en_name": "Toothbrush",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/20195691_-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "468",
+              "name": "Teeth whitening",
+              "en_name": "Teeth whitening",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/10037130_-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "469",
+              "name": "Cleaning Teeth",
+              "en_name": "Cleaning Teeth",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/98050060_-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "470",
+              "name": "Mouthwash",
+              "en_name": "Mouthwash",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/37276211_-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "471",
+              "name": "Mouth Fresheners",
+              "en_name": "Mouth Fresheners",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/40294269_-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            }
+          ],
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "525",
+          "name": " DERMA HUB",
+          "en_name": " DERMA HUB",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1693476095_undefined_97809975_13851-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "69",
+          "name": "Body Care",
+          "en_name": "Body Care",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/47363789_844-large_default-500x500.jpg",
+          "categories": [
+            {
+              "category_id": "291",
+              "name": "Shapewear",
+              "en_name": "Shapewear",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/96118827_shapewear-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "306",
+              "name": "Deodorant",
+              "en_name": "Deodorant",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/50999825_UriageFreshDeodorantSpray-125ml-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "307",
+              "name": "Body Scrub",
+              "en_name": "Body Scrub",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/6406157_St.IvesGentleSmoothingOatmealScrub-Mask-170g-N-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "308",
+              "name": "Body Whitening",
+              "en_name": "Body Whitening",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/30757415_NeutridermSkinWhiteningCreme-50g-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "309",
+              "name": "Body Oil",
+              "en_name": "Body Oil",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/38087770_Bio-OilSkincareOil-60ml-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "317",
+              "name": "Body Moisturizer",
+              "en_name": "Body Moisturizer",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/54429835_BodyMoisturizer-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "328",
+              "name": "Body Cleansers",
+              "en_name": "Body Cleansers",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/90636798_bodycleansersicon-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "472",
+              "name": "Body Powder",
+              "en_name": "Body Powder",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1675945981_undefined_27709736_image49-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "158",
+              "name": "Bath Accessories",
+              "en_name": "Bath Accessories",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/53237391_BathAccessories-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            }
+          ],
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "166",
+          "name": "Health Care",
+          "en_name": "Health Care",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/51271370_health-500x500.png",
+          "categories": [
+            {
+              "category_id": "167",
+              "name": "Food",
+              "en_name": "Food",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/76592843_foodicon-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "169",
+              "name": "Vitamins & Supplements",
+              "en_name": "Vitamins &amp; Supplements",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/24504030_vitamensampsupplementsicon-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            }
+          ],
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "70",
+          "name": "Hair Care",
+          "en_name": "Hair Care",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/52274246_7962132_-500x500-500x500.jpg",
+          "categories": [
+            {
+              "category_id": "292",
+              "name": "Hair treatment",
+              "en_name": "Hair treatment",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/94722974_Hairtreatment-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "293",
+              "name": "Tools and Accessories",
+              "en_name": "Tools and Accessories",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/51362221_36384205_RevolutionHairDetangleMeHairBrush-RoseGold-500x500-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "294",
+              "name": " Hair Coloring",
+              "en_name": " Hair Coloring",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/38301714_HairColoring-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "295",
+              "name": "Oil & Masks",
+              "en_name": "Oil &amp; Masks",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/55083991_Oil-Masks-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "296",
+              "name": "Shampoo & Conditioners",
+              "en_name": "Shampoo &amp; Conditioners",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/5423909_Shampoo-Conditioners-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "318",
+              "name": "Hair styling",
+              "en_name": "Hair styling",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/4828153_Hairstyling-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            }
+          ],
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "67",
+          "name": "Face Care",
+          "en_name": "Face Care",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/51725054_493-large_default-500x500.jpg",
+          "categories": [
+            {
+              "category_id": "310",
+              "name": "Cleansers & Toners",
+              "en_name": "Cleansers &amp; Toners",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/46994365_cleansresamptonersicon-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "311",
+              "name": "Face Moisturizer",
+              "en_name": "Face Moisturizer",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/27151130_LaRoche-PosayEffaclarHCompensatingSoothingMoisturizer-40ml-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "312",
+              "name": "Eye care",
+              "en_name": "Eye care",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/43264702_Eyecare-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "313",
+              "name": "Facial Masks",
+              "en_name": "Facial Masks",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/78740681_facial-masks-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "314",
+              "name": " Face Scrubs",
+              "en_name": " Face Scrubs",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/11668096_St.IvesRadiantSkinFaceScrub-170g-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "315",
+              "name": "Tools and Accessories",
+              "en_name": "Tools and Accessories",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/75632327_ToolsandAccessories-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "316",
+              "name": "Lip care",
+              "en_name": "Lip care",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/88374648_lip-care-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            }
+          ],
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "80",
+          "name": "Hand Care",
+          "en_name": "Hand Care",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/93384422_15626362_24hourmoisture-500x500-500x500.png",
+          "categories": [
+            {
+              "category_id": "300",
+              "name": "Hand Soaps",
+              "en_name": "Hand Soaps",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/33566012_hand-soaps-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "301",
+              "name": "Hand Moisturizer",
+              "en_name": "Hand Moisturizer",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/57967211_hand-moisturizer-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "302",
+              "name": "Tools and Accessories",
+              "en_name": "Tools and Accessories",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/93669451_tools-and-accessories-1-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            }
+          ],
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "68",
+          "name": "Foot Care",
+          "en_name": "Foot Care",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/97218304_1090-large_default-500x500.jpg",
+          "categories": [
+            {
+              "category_id": "303",
+              "name": "Tools and Accessories",
+              "en_name": "Tools and Accessories",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/78179754_tools-and-accessories-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "304",
+              "name": "Foot Moisturizer",
+              "en_name": "Foot Moisturizer",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/92592442_foot-moisturizer-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            }
+          ],
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "251",
+          "name": "Sunscreen",
+          "en_name": "Sunscreen",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/75493736_CetaphilProtectiveLipBalm-8ml-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "127",
+          "name": "Tan",
+          "en_name": "Tan",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/29587982_15213067_CarrotSunOilCarrot200Ml1-500x500-500x500.png",
+          "categories": null,
+          "attached_banners": [
+            {
+              "id": "0",
+              "category_id": "127",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/86023143_Tan-600x189.png",
+              "type": 1,
+              "data_id": "0",
+              "language_id": "1",
+              "name": "Tan",
+              "sort_order": "0",
+              "seo_url": ""
+            }
+          ],
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "231",
+          "name": "Women care",
+          "en_name": "Women care",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/84947050_TaharaMuskPurityWipes-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "338",
+          "name": "Mom & Baby",
+          "en_name": "Mom &amp; Baby",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/56438442_icon-03-500x500.png",
+          "categories": [
+            {
+              "category_id": "339",
+              "name": "Mommy care",
+              "en_name": "Mommy care",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/58903650_PalmersMassageCreamforStretchMarks-125g-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "283",
+              "name": "Baby Care",
+              "en_name": "Baby Care",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/55358925_KidsCare-Bathproduct1-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            }
+          ],
+          "attached_banners": [
+            {
+              "id": "0",
+              "category_id": "338",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/undefined/96245376_mom_26baby3-600x189.png",
+              "type": 0,
+              "data_id": "0",
+              "language_id": "1",
+              "name": "",
+              "sort_order": "0",
+              "seo_url": ""
+            }
+          ],
+          "recommended_manufacturers": [
+            {
+              "manufacturer_id": "1049",
+              "name": "Childs Farm ",
+              "en_name": "Childs Farm ",
+              "ar_name": "تشايلدز فارم",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/75701920_childsfarmlogo-500x500.png",
+              "background_image": "",
+              "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/75701920_childsfarmlogo-500x500.png",
+              "background_original_image": "",
+              "status": true,
+              "seo_url": "childs-farm-"
+            },
+            {
+              "manufacturer_id": "239",
+              "name": "Palmers ",
+              "en_name": "Palmers ",
+              "ar_name": null,
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/36925358_Palmers-500x500.png",
+              "background_image": "",
+              "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/36925358_Palmers-500x500.png",
+              "background_original_image": "",
+              "status": true,
+              "seo_url": "palmers"
+            },
+            {
+              "manufacturer_id": "464",
+              "name": "Sebamed",
+              "en_name": "Sebamed",
+              "ar_name": null,
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/84183623_Sebamed logo-500x500.png",
+              "background_image": "",
+              "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/84183623_Sebamed logo-500x500.png",
+              "background_original_image": "",
+              "status": true,
+              "seo_url": "sebamed"
+            },
+            {
+              "manufacturer_id": "285",
+              "name": "QV",
+              "en_name": "QV",
+              "ar_name": "كيو في",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/58779782_QV-500x500.png",
+              "background_image": "",
+              "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/58779782_QV-500x500.png",
+              "background_original_image": "",
+              "status": true,
+              "seo_url": "qv"
+            },
+            {
+              "manufacturer_id": "235",
+              "name": "Bio Oil ",
+              "en_name": "Bio Oil ",
+              "ar_name": "بيو اويل",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/88873983_Bio Oil-500x500.png",
+              "background_image": "",
+              "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/88873983_Bio Oil-500x500.png",
+              "background_original_image": "",
+              "status": true,
+              "seo_url": "bio-oil-"
+            },
+            {
+              "manufacturer_id": "40",
+              "name": "Johnsons ",
+              "en_name": "Johnsons ",
+              "ar_name": "جونسون ",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/40068020_Johnsons-500x500.png",
+              "background_image": "",
+              "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/40068020_Johnsons-500x500.png",
+              "background_original_image": "",
+              "status": true,
+              "seo_url": "johnsons-"
+            }
+          ]
+        },
+        {
+          "category_id": "230",
+          "name": "Men care",
+          "en_name": "Men care",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/43306326_45509024_MediumBrown-500x500-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        }
+      ],
+      "attached_banners": [
+        {
+          "id": "46",
+          "category_id": "46",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/undefined/80649699_skin-care-600x189.png",
+          "type": 1,
+          "data_id": "46",
+          "language_id": "1",
+          "name": "Care",
+          "sort_order": "0",
+          "seo_url": "care"
+        }
+      ],
+      "recommended_manufacturers": [
+        {
+          "manufacturer_id": "982",
+          "name": "bodyblendz",
+          "en_name": "bodyblendz",
+          "ar_name": "بودي بلندز",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/91457353_BodyBlendzLipBalm-N-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/91457353_BodyBlendzLipBalm-N-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "bodyblendz"
+        },
+        {
+          "manufacturer_id": "134",
+          "name": "now ",
+          "en_name": "now ",
+          "ar_name": null,
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/76452890_now solutions1-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/76452890_now solutions1-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "now"
+        },
+        {
+          "manufacturer_id": "285",
+          "name": "QV",
+          "en_name": "QV",
+          "ar_name": "كيو في",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/58779782_QV-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/58779782_QV-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "qv"
+        },
+        {
+          "manufacturer_id": "188",
+          "name": "OZNaturals ",
+          "en_name": "OZNaturals ",
+          "ar_name": null,
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/9194727_OZNaturals-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/9194727_OZNaturals-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "oznaturals"
+        },
+        {
+          "manufacturer_id": "833",
+          "name": "Some By MI",
+          "en_name": "Some By MI",
+          "ar_name": "سوم باي مي",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/7043219_some-by-mi-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/7043219_some-by-mi-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "some-by-mi"
+        },
+        {
+          "manufacturer_id": "249",
+          "name": "Mavala",
+          "en_name": "Mavala",
+          "ar_name": "مافالا ",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/83549065_Mavala-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/83549065_Mavala-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "mavala"
+        },
+        {
+          "manufacturer_id": "1014",
+          "name": "Cantu",
+          "en_name": "Cantu",
+          "ar_name": "كانتو  ",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/94508403_Cantulogo-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/94508403_Cantulogo-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "cantu"
+        },
+        {
+          "manufacturer_id": "907",
+          "name": "Olaplex ",
+          "en_name": "Olaplex ",
+          "ar_name": "اولابلكس ",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/45944191_olaplexlogo-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/45944191_olaplexlogo-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "olaplex-"
+        },
+        {
+          "manufacturer_id": "156",
+          "name": "Cetaphil",
+          "en_name": "Cetaphil",
+          "ar_name": "سيتافيل",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/11428422_Cetaphil1-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/11428422_Cetaphil1-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "cetaphil"
+        },
+        {
+          "manufacturer_id": "965",
+          "name": "Shea Moisture ",
+          "en_name": "Shea Moisture ",
+          "ar_name": null,
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/53272536_shea-moisture-1-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/53272536_shea-moisture-1-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "shea-moisture"
+        },
+        {
+          "manufacturer_id": "1098",
+          "name": "Giovanni",
+          "en_name": "Giovanni",
+          "ar_name": "جيوفاني",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/52154069_Giovanni--500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/52154069_Giovanni--500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "giovanni"
+        },
+        {
+          "manufacturer_id": "336",
+          "name": "Garnier",
+          "en_name": "Garnier",
+          "ar_name": "غارنييه",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/40772737_Garnier-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/40772737_Garnier-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "garnier"
+        }
+      ]
+    },
+    {
+      "category_id": "385",
+      "name": "Gifts",
+      "en_name": "Gifts",
+      "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1679399773_undefined_78145330_icons2-041-500x500.png",
+      "categories": [
+        {
+          "category_id": "386",
+          "name": "Women Gifts Sets",
+          "en_name": "Women Gifts Sets",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/28235816_WomenGifts-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "390",
+          "name": "Men Gift sets",
+          "en_name": "Men Gift sets",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/4721968_MenGifts-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        }
+      ],
+      "attached_banners": null,
+      "recommended_manufacturers": null
+    },
+    {
+      "category_id": "48",
+      "name": "Nails",
+      "en_name": "Nails",
+      "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1679399825_undefined_22946536_IMG_3317-500x500.png",
+      "categories": [
+        {
+          "category_id": "108",
+          "name": "Nails Polish",
+          "en_name": "Nails Polish",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/25034855_TopfaceLastingColorNailEnamel-041-500x500.jpg",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "109",
+          "name": "Nails Care",
+          "en_name": "Nails Care",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/22879663_MavalaScientifiqueNailHardener-5ml-500x500.jpg",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "110",
+          "name": "Nails Polish Remover",
+          "en_name": "Nails Polish Remover",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/72468063_LyalTowelettesNailPolishRemover-24Towelettes-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "111",
+          "name": "Nail Tools",
+          "en_name": "Nail Tools",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/15885235_ZinatiShinerNailsTool-Pink--500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "112",
+          "name": "Artificial Nails",
+          "en_name": "Artificial Nails",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1675946433_undefined_11635076_-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        }
+      ],
+      "attached_banners": [
+        {
+          "id": "48",
+          "category_id": "48",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/undefined/80603498_nails-600x189.png",
+          "type": 1,
+          "data_id": "48",
+          "language_id": "1",
+          "name": "Nails",
+          "sort_order": "0",
+          "seo_url": "nails"
+        }
+      ],
+      "recommended_manufacturers": [
+        {
+          "manufacturer_id": "323",
+          "name": "Topface",
+          "en_name": "Topface",
+          "ar_name": " توب فيس",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/17061159_Topface-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/17061159_Topface-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "topface"
+        },
+        {
+          "manufacturer_id": "233",
+          "name": "kinetics",
+          "en_name": "kinetics",
+          "ar_name": "كنتكس",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/24048941_kinetics-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/24048941_kinetics-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "kinetics"
+        },
+        {
+          "manufacturer_id": "344",
+          "name": "Revlon",
+          "en_name": "Revlon",
+          "ar_name": null,
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/3214332_Revlon-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/3214332_Revlon-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "revlon"
+        },
+        {
+          "manufacturer_id": "355",
+          "name": "NORA BO AWADH",
+          "en_name": "NORA BO AWADH",
+          "ar_name": null,
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/78083464_NORA BO AWADH-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/78083464_NORA BO AWADH-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "nora-bo-awadh"
+        }
+      ]
+    },
+    {
+      "category_id": "47",
+      "name": "Lenses",
+      "en_name": "Lenses",
+      "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1679399732_undefined_31295627_-500x500.png",
+      "categories": [
+        {
+          "category_id": "319",
+          "name": "Contact Lesnses Solution",
+          "en_name": "Contact Lesnses Solution",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/32771357_BeauteousAdvancedFormulationMultipurposesSolution-100ml-N1-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "322",
+          "name": "Aderra Lenses",
+          "en_name": "Aderra Lenses",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/10508915_aderralensesicon-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "345",
+          "name": "New Lens Lenses",
+          "en_name": "New Lens Lenses",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1676193513_undefined_54269998_2-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "132",
+          "name": "Lens Me Lenses",
+          "en_name": "Lens Me Lenses",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1676191495_undefined_1464342_-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "137",
+          "name": "Anesthesia Lenses",
+          "en_name": "Anesthesia Lenses",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1676191619_undefined_20313897_-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "274",
+          "name": "Beauteous Prescription Contact Lenses",
+          "en_name": "Beauteous Prescription Contact Lenses",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1676191255_undefined_24776106_-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "273",
+          "name": "Beauteous Plano Contact Lenses",
+          "en_name": "Beauteous Plano Contact Lenses",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1676191057_undefined_40689493_-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        }
+      ],
+      "attached_banners": [
+        {
+          "id": "422",
+          "category_id": "47",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/undefined/70694668_beautous-600x189.png",
+          "type": 2,
+          "data_id": "422",
+          "language_id": "1",
+          "name": "Beauteous Lenses",
+          "sort_order": "0",
+          "seo_url": "beauteous"
+        }
+      ],
+      "recommended_manufacturers": [
+        {
+          "manufacturer_id": "422",
+          "name": "Beauteous",
+          "en_name": "Beauteous",
+          "ar_name": "بيوتيس",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/18582746_BeauteousNew-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/18582746_BeauteousNew-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "beauteous"
+        },
+        {
+          "manufacturer_id": "178",
+          "name": "Lens Me",
+          "en_name": "Lens Me",
+          "ar_name": " لنس مي",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/64569954_Lens Me-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/64569954_Lens Me-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "lens-me"
+        },
+        {
+          "manufacturer_id": "47",
+          "name": "Anesthesia",
+          "en_name": "Anesthesia",
+          "ar_name": "انستازيا",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/23875983_Anesthesia3-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/23875983_Anesthesia3-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "anesthesia"
+        },
+        {
+          "manufacturer_id": "1070",
+          "name": "New Lens",
+          "en_name": "New Lens",
+          "ar_name": null,
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/15987616_NewLens-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/15987616_NewLens-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "new-lens"
+        }
+      ]
+    },
+    {
+      "category_id": "59",
+      "name": "Devices",
+      "en_name": "Devices",
+      "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1679399897_undefined_26607706_icons2-091-500x500.png",
+      "categories": [
+        {
+          "category_id": "75",
+          "name": "Hair Devices",
+          "en_name": "Hair Devices",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1676192070_undefined_25068850_-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "76",
+          "name": "Facial Devices",
+          "en_name": "Facial Devices",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1676192402_undefined_50532587_-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "102",
+          "name": "Body Devices",
+          "en_name": "Body Devices",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1676204766_undefined_66889302_-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "107",
+          "name": "Female Devices",
+          "en_name": "Female Devices",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1676192586_undefined_49285349_-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        }
+      ],
+      "attached_banners": [
+        {
+          "id": "59",
+          "category_id": "59",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/undefined/90995733_devices-600x189.png",
+          "type": 1,
+          "data_id": "59",
+          "language_id": "1",
+          "name": "Devices",
+          "sort_order": "0",
+          "seo_url": "devices"
+        }
+      ],
+      "recommended_manufacturers": [
+        {
+          "manufacturer_id": "1010",
+          "name": "Ola Hair",
+          "en_name": "Ola Hair",
+          "ar_name": "اولا هير",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/65695786_OlaHair-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/65695786_OlaHair-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "ola-hair"
+        },
+        {
+          "manufacturer_id": "83",
+          "name": "jose eber",
+          "en_name": "jose eber",
+          "ar_name": "جوسي ايبر ",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/3693440_jose eber1-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/3693440_jose eber1-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "jose-eber"
+        },
+        {
+          "manufacturer_id": "271",
+          "name": "Braun",
+          "en_name": "Braun",
+          "ar_name": "براون ",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/13794199_Braun1-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/13794199_Braun1-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "braun"
+        },
+        {
+          "manufacturer_id": "257",
+          "name": "Okema",
+          "en_name": "Okema",
+          "ar_name": null,
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/32595163_Okema-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/32595163_Okema-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "okema"
+        },
+        {
+          "manufacturer_id": "662",
+          "name": "Joy",
+          "en_name": "Joy",
+          "ar_name": "جوي",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/46557647_Joy-500x500.jpg",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/46557647_Joy-500x500.jpg",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "joy"
+        },
+        {
+          "manufacturer_id": "1083",
+          "name": "Skinlarity",
+          "en_name": "Skinlarity",
+          "ar_name": null,
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/15394259_Skinlarity2-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/15394259_Skinlarity2-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "skinlarity"
+        },
+        {
+          "manufacturer_id": "712",
+          "name": "United professional",
+          "en_name": "United professional",
+          "ar_name": null,
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/61781465_United professional-500x500.png",
+          "background_image": "",
+          "original_image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/manufacturer/61781465_United professional-500x500.png",
+          "background_original_image": "",
+          "status": true,
+          "seo_url": "united-professional"
+        }
+      ]
+    },
+    {
+      "category_id": "382",
+      "name": "Home Scents",
+      "en_name": "Home Scents",
+      "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1679399614_undefined_19214021_icons2-07-500x500.png",
+      "categories": [
+        {
+          "category_id": "275",
+          "name": "Oud & Bakhoor",
+          "en_name": "Oud &amp; Bakhoor",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/84518997_NiceOneIncenseSticksBurner-36Sticks-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "287",
+          "name": "Censers",
+          "en_name": "Censers",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/84846627_ArabicLettersDesignBlackIncenseHolder-Medium-500x500.png",
+          "categories": [
+            {
+              "category_id": "457",
+              "name": "Electronic Censers",
+              "en_name": "Electronic Censers",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/49552329_-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            },
+            {
+              "category_id": "458",
+              "name": "Classic Censers",
+              "en_name": "Classic Censers",
+              "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/67884193_Layer1-500x500.png",
+              "categories": null,
+              "attached_banners": null,
+              "recommended_manufacturers": null
+            }
+          ],
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "383",
+          "name": "Candle & Diffuser ",
+          "en_name": "Candle &amp; Diffuser ",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/56976732_AreonPatchouliLavenderVanillaReedDiffuser-85ml---500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        },
+        {
+          "category_id": "384",
+          "name": "Air fresheners",
+          "en_name": "Air fresheners",
+          "image": "https://d3e7ardzpaj3y4.cloudfront.net/image/catalog/category/1675945388_undefined_1957303_Homefragrances-500x500.png",
+          "categories": null,
+          "attached_banners": null,
+          "recommended_manufacturers": null
+        }
+      ],
+      "attached_banners": null,
+      "recommended_manufacturers": null
+    }
+  ]
+}
