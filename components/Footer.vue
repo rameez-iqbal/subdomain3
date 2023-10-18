@@ -1,7 +1,7 @@
 <template>
     <footer>
         <div class="text-white bg-[#997adb]">
-            <div class="container p-4">
+            <div class="container p-4 w-[1440px] mx-auto">
                 <div class="flex items-center justify-between gap-5 flex-wrap">
                     <div class="flex flex-col gap-2">
                         <h5 class="text-xl">Do you need help ?</h5>
@@ -60,7 +60,7 @@
                 </div>
             </div>
             <div class="bg-[#fcfcfc] pt-[50px]">
-                <div class="container px-4 pb-3">
+                <div class="container px-4 pb-3 w-[1440px] mx-auto">
                     <div class="flex flex-col gap-5 md:flex-row justify-between">
                         <div class="hidden lg:flex flex-col space-y-[30px]">
                             <h5 class="text-black text-lg">Popular Categories</h5>
