@@ -5,6 +5,7 @@ export default defineConfig({
     extend: {
       boxShadow: {
         cus: "0 0 5px 0 rgba(0,0,6,.14)",
+        giftHeader: "0 0.5px 1px 0 rgba(0,0,6,.14)",
       },
       colors: {
         "txt-secondary": "rgba(0,0,0,.54)",

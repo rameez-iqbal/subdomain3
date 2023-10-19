@@ -9,7 +9,7 @@ export function useScroll() {
     window.addEventListener('scroll', handleScroll);
   });
 
-  onBeforeMount(() => {
+  onBeforeUnmount(() => {
     window.removeEventListener('scroll', handleScroll);
   });
 

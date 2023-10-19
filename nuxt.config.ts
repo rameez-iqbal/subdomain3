@@ -2,6 +2,7 @@
 export default defineNuxtConfig({
   modules: [
     '@nuxtjs/i18n',
+    '@vant/nuxt',
     'nuxt-windicss',
   ],
   i18n: {
